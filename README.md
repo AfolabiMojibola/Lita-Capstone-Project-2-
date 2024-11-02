@@ -30,6 +30,7 @@ This project employs a combination of data exploration, SQL querying, and data v
 #### Data Exploration
 ___
 #### Excel Analysis
+___
 -Analysis on customer data using pivot tables to find subscription patterns
 
 -Average subscription duration and identification of the most popular 
@@ -44,6 +45,7 @@ subscription types
 
 
 #### SQL Queries
+___
 - Total number of customers from each region
 QUERY:
 ```
