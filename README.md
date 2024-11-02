@@ -5,10 +5,11 @@
 ___
 1. [Project Overview](#project-overview)
 2. [Tools Used](#tools-used)
-3. [Excel Analysis](#excel-analysis)
-4. [SQL Queries](#sql-queries)
-5. [PowerBI Dashboard](#powerbi-dashboard)
-6. [Appendices](#appendices)
+3. [Data Exploration](#data-exploration)
+4. [Excel Analysis](#excel-analysis)
+5. [SQL Queries](#sql-queries)
+6. [PowerBI Dashboard](#powerbi-dashboard)
+7. [Appendices](#appendices)
 
 
 ### PROJECT 2  - Customer Segmentation for AME Subscription Service 
@@ -26,7 +27,7 @@ This project employs a combination of data exploration, SQL querying, and data v
 - Power BI for interactive dashboard creation
 
 
-#### Data Exploration 2
+#### Data Exploration
 ___
 * Excel Analysis
 -Analysis on customer data using pivot tables to find subscription patterns
