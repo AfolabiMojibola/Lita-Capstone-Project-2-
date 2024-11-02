@@ -144,7 +144,7 @@ Final Deliverable
 
 #### Appendices
 ___
-* Capstone Sales Dataset
+* Capstone Customer Dataset
 
 
 
