@@ -43,7 +43,7 @@ subscription types
 
 
 
-#### SQL Queries 2
+#### SQL Queries
 - Total number of customers from each region
 QUERY:
 ```
@@ -112,7 +112,7 @@ GROUP BY CustomerID
 ```
 
 
-#### PowerBI Dashboard 2
+#### PowerBI Dashboard
 ___
 - Create visualizations for:
     - Customer segmentation by region and subscription type
