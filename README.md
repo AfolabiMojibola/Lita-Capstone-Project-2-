@@ -1,5 +1,6 @@
 # Lita-Capstone-Project-2-
 
+
 ## Table of Contents
 ___
 1. [Project Overview](#project-overview)
@@ -12,11 +13,11 @@ ___
 
 ### PROJECT 2  - Customer Segmentation for AME Subscription Service 
 
-#### Project Overview 2
+#### Project Overview
 ___
 This project shows the analysis of customer segmentation for AME subscription service. This analysis was carried out by exploring the customer data for a subscription service to identify key trends in cancellation and renewals. The goal of the project is to understand customer behaviour, track subscription types and identity key trends in cancellation and renewals. 
 
-#### Tools Used 2
+#### Tools Used
 ___
 This project employs a combination of data exploration, SQL querying, and data visualization techniques using:
 
