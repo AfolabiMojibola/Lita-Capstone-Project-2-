@@ -134,6 +134,8 @@ GROUP BY CustomerID
 
 ![IMG-20241022-WA0009](https://github.com/user-attachments/assets/d813f33e-7b4d-463f-b68b-44cfc25cb158)
 
+![IMG-20241023-WA0011](https://github.com/user-attachments/assets/9cbda577-b142-4329-8c76-8406f0d739eb)
+
 
 #### PowerBI Dashboard
 ___
