@@ -36,6 +36,9 @@ ___
 -Average subscription duration and identification of the most popular 
 subscription types
 
+![Average subscription](https://github.com/user-attachments/assets/8bc03673-9f4a-420f-a52c-367789944249)
+
+Other interesting Reports
 
 -Subscription type distribution by region
 
